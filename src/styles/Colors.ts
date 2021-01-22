@@ -1,6 +1,6 @@
 enum Colors {
-  primary = '#ffb000',
-  secondary = '#25b79f',
+  primary = '#ab003c',
+  secondary = '#4dabf5',
 }
 
 export default Colors;
